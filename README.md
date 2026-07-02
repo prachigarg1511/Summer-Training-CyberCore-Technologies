@@ -12,14 +12,6 @@
 
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repository?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repository?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repository?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/your-username/your-repository?style=for-the-badge)
-
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge)
